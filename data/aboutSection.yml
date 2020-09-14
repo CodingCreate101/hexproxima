@@ -3,13 +3,13 @@ enable: true
 title: About Us
 subtitle: Enjoy team diversity and increase their networks among others people in
   various fields by provided.
-title2: I design and build ultimate things.
-content: I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
+title2: We design and build ultimate things.
+content: We love to work in User Experience & User Interface designing. Because we love
+  to solve the design problem and find easy and better solutions to solve it. We always
+  try our best to make good user interface with the best user experience. We have been
   working as a Visual designer from.
 button1Name: Hire Us
-button2Name: Download Our Brocheur
+button2Name: Download Our Profile
 button1Target: contact
-button2Target: contact
+button2Target: images/DM_Booklet.pdf
 image: images/about/about-img.jpg

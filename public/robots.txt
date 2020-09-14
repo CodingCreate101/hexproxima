@@ -1,0 +1,4 @@
+
+User-agent: *
+
+sitemap: https://hexproxima.com/sitemap.xml

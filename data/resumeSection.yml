@@ -1,45 +1,48 @@
 ---
 enable: true
-topTitle: My Resume
-title: My Expertises
+topTitle: Meet the team
+title: Our Expertise
 subtitle: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
 subsubtitle: Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
 
-tab1Name: Education
-tab2Name: Experiences
+tab1Name: People
+tab2Name: Expertise
 tab1Target: education
 tab2Target: experience
 
 education:
-  - title: Master in Arts
+  - title: Jameel Mujawar
     content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - title: Master in Arts
+    time: Founder & CEO
+  - title: Shaan Shaikh
     content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - title: Master in Arts
+    time: Co-Founder & PM
+  - title: Dindayal J
     content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - title: Master in Arts
+    time: Ops Manager
+  - title: Burhan Ahamad
     content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - title: Master in Arts
+    time: Digital Marketing Expert
+  - title: Arun Bandi   
     content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+    time: Senior Developer
+  - title: Tejas H
+    content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: Senior Developer
 
 experience:
-  - title: experience
+  - title: We Design for the future
     content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - title: experience
+    time: UI/UX
+  - title: We make your brand come alive
     content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - title: experience
+    time: Branding
+  - title: Motion graphics that make your product come alive
     content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - title: experience
+    time: Motion Graphics
+  - title: Illustrations
     content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - title: experience
+    time: Illustrations
+  - title: Finger friendly apps
     content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+    time: Mobile app development

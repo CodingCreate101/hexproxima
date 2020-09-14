@@ -1,8 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://hexproxima.com"
 languageCode = "en-us"
 paginate = 6
+enableRobotsTXT = true
 theme = "portio"
-title = "Portio"
+title = "HexProxima - Design and development studio"
   # Main Menu
   [[menu.main]]
     name = "Home"
@@ -21,7 +22,7 @@ title = "Portio"
     url = "#portfolio"
     weight = 4
   [[menu.main]]
-    name = "Resume"
+    name = "Team"
     url = "#resume"
     weight = 5
   [[menu.main]]
@@ -35,8 +36,8 @@ title = "Portio"
 
   # Sitemap Menu
   [[menu.sitemap]]
-    name = "About me"
-    url = "about"
+    name = "About Us"
+    url = "#about"
     weight = 1
   [[menu.sitemap]]
     name = "Frequently Ask Question"
@@ -54,11 +55,12 @@ title = "Portio"
 [params]
   blogPageURL = "blog"
   contactLink = "contact"
-  copyright = "All right reserved copyright © Portio 2020"
+  copyright = "All right reserved copyright © HexProxima 2020"
   footerLogo = "images/contact/widget-logo.png"
-  formspreeURL = "YOUR FORMSPREE URL"
+  formspreeURL = "https://formspree.io/xzbkpebr"
   googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
   logo = "images/site-navigation/logo.png"
+  Description = "HexProxima is a web development and a design studio with over 5 years of design experience."
 
   [params.address]
     address = "23 Khan Niketon, Grand Street, NYK."
@@ -70,3 +72,4 @@ title = "Portio"
     latitude = "23.7783741"
     longitude = "90.3746808"
     pinImage = "images/pin.png"
+
